@@ -1,0 +1,1 @@
+De-compress the data from the zipped files and place them out of their zipped folders inside the data folder to use them as they are to large in size too be uploaded to GitHub this had to be done
